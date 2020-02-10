@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohmeihaen.betweentwobrackets.com/sitemap.xml
